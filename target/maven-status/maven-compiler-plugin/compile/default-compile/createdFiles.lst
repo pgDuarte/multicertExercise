@@ -1,0 +1,5 @@
+spring\webservices\service\UserDetails.class
+spring\webservices\service\model\User.class
+spring\webservices\service\impl\UserDetailsService.class
+spring\webservices\service\dao\UserDAOImpl.class
+spring\webservices\service\dao\UserDAO.class
